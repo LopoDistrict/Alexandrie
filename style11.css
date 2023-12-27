@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+h1{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    color: white;
+    padding-top: 27px;
+}
+
+h2{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 2em;
+}
+#explication{
+    font-family: 'Ubuntu', sans-serif;
+    margin-top: 2em;
+    text-align: center;
+    
+}
+table,
+td {
+  border: 3px solid #000000;
+  font-family: 'Ubuntu', sans-serif;
+
+  margin-bottom: 10em;
+  margin-top: 10em;
+  width: 23em;
+}
+
+thead,
+tfoot {
+  background-color: #000000;
+  color: #fff;
+  font-family: 'Ubuntu', sans-serif;
+
+  
+}
+th{
+  /*! border-radius: 20px ; */
+  position: relative;
+}
+
+
+
+#col{
+    margin-top: 3em;
+}
+
+#myInput{
+  text-align:center;
+  width: 25em;
+  height: 30px;
+  border:3px solid #000000;
+  border-radius: 15px;
+  position: absolute;
+  left: 50%;
+  margin-top: 5em;
+  font-family: 'Ubuntu', sans-serif;
+  transform: translate(-50%, -50%);
+}
+
+table{
+  border-collapse: collapse;
+  
+}
+
+.first{
+  display: table;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+

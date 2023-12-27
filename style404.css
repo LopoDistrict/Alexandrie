@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@500&display=swap');
+
+h1{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+
+}
+
+p{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#button{
+    position: absolute;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    height: 80px;
+    width: 200px;
+    border-radius: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    background-color: #1d1d1d;
+    color: #fff;
+}
+
+#button:hover{
+    cursor: pointer;
+}
+
+.button{
+    margin-top: 4em;
+}
